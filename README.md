@@ -4,7 +4,11 @@
 
 This bot allows you to trade cryptocurrencies using ChatGPT or other AI models directly on real exchanges. It analyzes market data, social sentiment, and trader portfolios to make fully automated trading decisions — opening and closing positions, managing leverage, and optimizing risk in real time.
 Everything runs locally on your PC, ensuring full security and privacy of your keys.
-
+### 🌍语言
+<div align="left">
+  <a href="README.zh-CN.md">CN 中文</a>
+</div>
+---
 <div align="center">
   <a href="../../releases/latest">
     <img width="1200" alt="HyperLiquid Trading Bot — an autonomous AI trading system powered by advanced language models." src="assets/download.png" />
